@@ -1,5 +1,5 @@
-#Setup
+# Setup
 - npm i
 
-#Features
+# Features
 - TS
