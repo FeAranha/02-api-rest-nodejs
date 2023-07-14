@@ -1,5 +1,6 @@
 node_modules/
 
+tmp/app.db
 dist/
 coverage/
 .env
